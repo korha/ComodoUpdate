@@ -1,0 +1,3 @@
+EXPORTS
+ImageDirectoryEntryToData=_Z29ImageDirectoryEntryToDataStubPvhtPm
+MiniDumpWriteDump=_Z21MiniDumpWriteDumpStubPvmS_iS_S_S_
